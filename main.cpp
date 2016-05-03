@@ -29,6 +29,7 @@ int main()
 	sbfunpp = &Base::sbfun;
 	(*sbfunpp)();
 
+
 	//bfunpp();
 	return 0;
 }
